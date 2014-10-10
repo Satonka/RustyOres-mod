@@ -1,0 +1,16 @@
+[
+{
+  "modid": "rustyoresmod",
+  "name": "Rust Ores",
+  "description": "Rust your metals to make new compounds",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Huter", "LaserDude"],
+  "credits": "Samuel Johnston and Ben DRay",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
